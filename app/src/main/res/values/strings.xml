@@ -3,5 +3,6 @@
     <string name="welcome_gdp50">Welcome GDP!</string>
     <string name="second_page">Welcome to the second Page!!</string>
     <string name="next_page">Next page</string>
-
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="third_page">Welcome to the third Page!!</string>
 </resources>
