@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">GDP50</string>
-
     <string name="welcome_gdp50">Welcome GDP!</string>
-    <string name="text2">Welcome to the second Page!!</string>
+    <string name="second_page">Welcome to the second Page!!</string>
     <string name="next_page">Next page</string>
 
 </resources>
