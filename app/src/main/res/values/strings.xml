@@ -9,4 +9,5 @@
     <string name="third_page">In Ride Feedback</string>
     <string name="title_activity_fourth">FourthActivity</string>
     <string name="fourth_page" >Post Ride Feedback</string>
+    <string name="initial_speed">0.0 m/s</string>
 </resources>
