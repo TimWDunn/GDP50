@@ -31,13 +31,13 @@ public class ThirdActivity extends AppCompatActivity implements LocationListener
 
         if( location==null )
         {
-            txt.setText("-.- m/s");
+            txt.setText("-.- mph");
         }
         else
         {
-            float nCurrentSpeed = location.getSpeed();
+            float nCurrentSpeed = (float) (location.getSpeed()*2.2369);
             //txt.setText(nCurrentSpeed + " m/s");
-            txt.setText( String.format("%.2f m/s", nCurrentSpeed));
+            txt.setText( String.format("%.2f mph", nCurrentSpeed));
         }
     }
 
