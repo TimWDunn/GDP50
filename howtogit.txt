@@ -4,4 +4,4 @@ From here, he submits a pull request to me. I can see what has been changed and 
 If I accept, Conor's changes will be merged into my main folder.
 I can then PULL using tortoise git, from origin, and it will update my local files on my computer so I can load his work. 
 
-Can you see this?
+Can you see this? yes
