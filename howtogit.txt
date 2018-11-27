@@ -1,0 +1,5 @@
+Conor commits and pushes to his own github account, which has been forked off of mine. 
+He can make changes, and create his own branches as he wishes and update his work in his github repository. 
+From here, he submits a pull request to me. I can see what has been changed and see if it is possible to merge the 2 versions of the file.
+If I accept, Conor's changes will be merged into my main folder.
+I can then PULL using tortoise git, from origin, and it will update my local files on my computer so I can load his work. 
